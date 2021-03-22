@@ -1,4 +1,4 @@
-<img src="./media/toux2.png" width="80" style='border-radius:50%'/>
+<!-- <img src="./media/toux2.png" width="80" style='border-radius:50%'/> -->
 
 # 
 
@@ -11,6 +11,6 @@
 
 [Get Started](README.md)
 
-![](./media/xiaolan.jpeg)
+<!-- ![](./media/xiaolan.jpeg) -->
 
 ![color](#dddddd)
