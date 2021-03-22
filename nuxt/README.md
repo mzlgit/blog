@@ -1,3 +1,3 @@
 # nuxt
 
-> nuxt
+> nuxt more
