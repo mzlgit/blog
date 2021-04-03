@@ -4,9 +4,10 @@
 * Nuxt
   * [nuxt介绍](nuxt/nuxt)
 * CSS
-  * [说明](css/index)
+  * [CSS](css/index)
   * [盒子模型](css/盒子模型)
 * JavaScript
-  * [说明](javaScript/index)
+  * [JavaScript](javaScript/index)
+  * [数据类型](javaScript/数据类型)
   * typeScript
-    * [说明](javaScript/typeScript/index)
+    * [typeScript](javaScript/typeScript/index)
