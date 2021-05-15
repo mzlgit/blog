@@ -9,5 +9,8 @@
 * JavaScript
   * [JavaScript](javaScript/index)
   * [数据类型](javaScript/数据类型)
+  * [prototype 、__proto__](javaScript/prototype)
   * typeScript
     * [typeScript](javaScript/typeScript/index)
+* Plugins
+  * [preload-js](plugins/createjs)
